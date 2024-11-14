@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Audi e-tron.jpg",
+      "PackagePath": "staticwebassets\\img\\Audi e-tron.jpg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\BMW 3 Series.jpg",
+      "PackagePath": "staticwebassets\\img\\BMW 3 Series.jpg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Chevrolet Bolt EV.jpeg",
+      "PackagePath": "staticwebassets\\img\\Chevrolet Bolt EV.jpeg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Chevrolet Bolt EV.jpg",
+      "PackagePath": "staticwebassets\\img\\Chevrolet Bolt EV.jpg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Ford F-150.jpg",
+      "PackagePath": "staticwebassets\\img\\Ford F-150.jpg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Ford Mustang Mach-E.jpg",
+      "PackagePath": "staticwebassets\\img\\Ford Mustang Mach-E.jpg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Honda Accord.webp",
+      "PackagePath": "staticwebassets\\img\\Honda Accord.webp"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Nissan Leaf.jpeg",
+      "PackagePath": "staticwebassets\\img\\Nissan Leaf.jpeg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Nissan Leaf.jpg",
+      "PackagePath": "staticwebassets\\img\\Nissan Leaf.jpg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Tesla Model 3.jpg",
+      "PackagePath": "staticwebassets\\img\\Tesla Model 3.jpg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Tesla.jpg",
+      "PackagePath": "staticwebassets\\img\\Tesla.jpg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Toyota Camry.jpg",
+      "PackagePath": "staticwebassets\\img\\Toyota Camry.jpg"
+    },
+    {
+      "Id": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Shop.props",
+      "PackagePath": "build\\Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop.props",
+      "PackagePath": "buildMultiTargeting\\Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shop.props",
+      "PackagePath": "buildTransitive\\Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
