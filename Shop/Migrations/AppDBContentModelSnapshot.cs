@@ -107,3 +107,5 @@ namespace Shop.Migrations
         }
     }
 }
+
+//Тестовый комит
