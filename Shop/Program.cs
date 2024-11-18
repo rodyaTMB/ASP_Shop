@@ -1,12 +1,21 @@
+using Shop.Data;
+using Microsoft.EntityFrameworkCore;
 using Shop.Data.Interfaces;
 using Shop.Data.mocks;
+using Shop.Data.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Добавляем файл конфигурации (если используете DBSetings.json, регистрируйте его)
+builder.Configuration.AddJsonFile("DBSetings.json", optional: true, reloadOnChange: true);
+
 // Регистрация сервисов
-builder.Services.AddTransient<IAllCars, MockCars>();
-builder.Services.AddTransient<ICarsCategory, MockCategory>();
-builder.Services.AddControllersWithViews(); // В новой версии используется AddControllersWithViews() вместо AddMvc()
+builder.Services.AddTransient<IAllCars, CarRepository>();
+builder.Services.AddTransient<ICarsCategory, CategoryRepository>();
+builder.Services.AddControllersWithViews();
+
+// Настройка контекста базы данных
+builder.Services.AddDbContext<AppDBContent>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 
@@ -27,8 +36,14 @@ app.UseEndpoints(endpoints =>
 {
 	endpoints.MapControllerRoute(
 		name: "default",
-		pattern: "{controller=Cars}/{action=List}/{id?}"); // Здесь определяем маршрут по умолчанию
+		pattern: "{controller=Cars}/{action=List}/{id?}"); // Определяем маршрут по умолчанию
 });
+
+using (var scope = app.Services.CreateScope())
+{
+	AppDBContent content = scope.ServiceProvider.GetRequiredService<AppDBContent>();
+	DBOjects.Initial(content);
+}
 
 // Запуск приложения
 app.Run();
