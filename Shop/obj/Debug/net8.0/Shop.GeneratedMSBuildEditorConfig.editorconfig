@@ -30,8 +30,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[A:/ASP_NET_CORE/Shop/Shop/Shop/Views/Shared/AllCars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFsbENhcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [A:/ASP_NET_CORE/Shop/Shop/Shop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP_NET_CORE/Shop/Shop/Shop/Views/ShopCart/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcENhcnRcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [A:/ASP_NET_CORE/Shop/Shop/Shop/Views/_ViewImports.cshtml]
