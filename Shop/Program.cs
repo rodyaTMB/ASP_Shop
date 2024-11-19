@@ -48,4 +48,4 @@ using (var scope = app.Services.CreateScope())
 // Запуск приложения
 app.Run();
 
-//Тестовый комит 2
+//Тестовый комит 3
