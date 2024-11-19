@@ -6,11 +6,6 @@ namespace Shop.Data
 	{
 		public static void Initial(AppDBContent content)
 		{
-			//AppDBContent content;
-			//using (var scope = app.ApplicationServices.CreateScope())
-			//{
-			//	content = scope.ServiceProvider.GetRequiredService<AppDBContent>();
-			//}
 
 			if (!content.Category.Any())
 			{
