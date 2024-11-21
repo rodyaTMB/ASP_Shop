@@ -46,7 +46,7 @@ app.UseEndpoints(endpoints =>
 {
 	endpoints.MapControllerRoute(
 		name: "default",
-		pattern: "{controller=Cars}/{action=List}/{id?}"); // Определяем маршрут по умолчанию
+		pattern: "{controller=Home}/{action=Index}/{id?}"); // Определяем маршрут по умолчанию
 });
 
 using (var scope = app.Services.CreateScope())
