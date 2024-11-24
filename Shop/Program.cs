@@ -4,6 +4,8 @@ using Shop.Data.Interfaces;
 using Shop.Data.mocks;
 using Shop.Data.Repository;
 using Shop.Data.Models;
+using System.ComponentModel;
+using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -47,6 +49,12 @@ app.UseEndpoints(endpoints =>
 	endpoints.MapControllerRoute(
 		name: "default",
 		pattern: "{controller=Home}/{action=Index}/{id?}"); // Определяем маршрут по умолчанию
+
+	endpoints.MapControllerRoute( // Маршрут для фильтрации
+		name: "categoryFilter",
+		pattern: "Cars/List/{category}",
+		defaults: new { Controller = "Cars", Action = "List" });
+
 });
 
 using (var scope = app.Services.CreateScope())
