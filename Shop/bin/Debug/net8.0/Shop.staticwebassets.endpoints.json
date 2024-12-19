@@ -1,428 +1,19 @@
 {
   "Version": 1,
-  "Hash": "/Q4hcfWU7QgsmLN0KR/OyqL3Edz/F2jjX6PG3hxGruc=",
-  "Source": "Shop",
-  "BasePath": "_content/Shop",
-  "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "Shop\\wwwroot",
-      "Source": "Shop",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "Pattern": "**"
-    }
-  ],
-  "Assets": [
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\css\\bootstrap.min.css",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "46ein0sx1k",
-      "Integrity": "PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\css\\Style.css",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "css/Style#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "yrdsjevvot",
-      "Integrity": "vs+YNycMmq9kk3M4c/SrFP2DQWIZP7JvJN7zSrQ/vwc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\Style.css"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Audi e-tron.jpg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Audi e-tron#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "j15jtjsqmk",
-      "Integrity": "ubZy+UrVAh/V+CnALB5ivytCLdI+3SwhbeoPM6MJ9DA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Audi e-tron.jpg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\BMW 3 Series.jpg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/BMW 3 Series#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "m9fxlrjuo2",
-      "Integrity": "ivyKyAImZ/F3sqabD/DdVOuLKwAU1o1uNmzOKN7dVRk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\BMW 3 Series.jpg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Chevrolet Bolt EV.jpeg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Chevrolet Bolt EV#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "kokyjv6h9m",
-      "Integrity": "zPOYSXfxEaXkYZBr2pKk/t1y3ciu2WN5uEjRz3O8J0w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Chevrolet Bolt EV.jpeg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Chevrolet Bolt EV.jpg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Chevrolet Bolt EV#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "j15jtjsqmk",
-      "Integrity": "ubZy+UrVAh/V+CnALB5ivytCLdI+3SwhbeoPM6MJ9DA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Chevrolet Bolt EV.jpg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Ford F-150.jpg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Ford F-150#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "nbvcmty5fx",
-      "Integrity": "k/P7z0Xf+o4AbrB8NJcoxsNcs8H0nMuorRfCh3wdKt0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Ford F-150.jpg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Ford Mustang Mach-E.jpg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Ford Mustang Mach-E#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wx7au6crwv",
-      "Integrity": "TIMWGdI0tMeIxh7UGa7LxFZPZVBwXO7DZI4lJTjRIFc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Ford Mustang Mach-E.jpg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Honda Accord.webp",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Honda Accord#[.{fingerprint}]?.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "letdlxa9uo",
-      "Integrity": "HQ8oyaPOfKMoDyAKCOxqv/mgUv7BN+w9Zi1HRKL1GyA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Honda Accord.webp"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Nissan Leaf.jpeg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Nissan Leaf#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "brdbttkjqm",
-      "Integrity": "mRSec3MVpbrmuSO92QCMjq/nqUNH2u+z256x4ZD7I0g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Nissan Leaf.jpeg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Nissan Leaf.jpg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Nissan Leaf#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "oy0aeytkc1",
-      "Integrity": "oHZmY60pBuXDs55a+0MdMCNDt7pG+jP0peSTZXpI95o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Nissan Leaf.jpg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Tesla Model 3.jpg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Tesla Model 3#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "l2nuzuxgow",
-      "Integrity": "s+SsZbBH1SLbKtxLglmJIbU3A3dEJAwjOUVkgsFlGK8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tesla Model 3.jpg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Tesla.jpg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Tesla#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "6vt9lfikbd",
-      "Integrity": "cvArN4Zi6n0r67H9vYDkEmkWbIAbBZC5/Up5VMhdghU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tesla.jpg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Toyota Camry.jpg",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "img/Toyota Camry#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pm8ic8ibgv",
-      "Integrity": "MYitbqsk2yN0WHFo1+UeLhHv+/xdkSXpasEWZTKQEq8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Toyota Camry.jpg"
-    },
-    {
-      "Identity": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\js\\bootstrap.min.js",
-      "SourceId": "Shop",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\",
-      "BasePath": "_content/Shop",
-      "RelativePath": "js/bootstrap.min#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "63fj8s7r0e",
-      "Integrity": "3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
-    }
-  ],
   "Endpoints": [
     {
-      "Route": "css/bootstrap.min.46ein0sx1k.css",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\css\\bootstrap.min.css",
+      "Route": "css/Style.css",
+      "AssetFile": "css/Style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 11:47:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "46ein0sx1k"
-        },
-        {
-          "Name": "label",
-          "Value": "css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "css/bootstrap.min.css",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 11:47:04 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "css/Style.css",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\css\\Style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
         },
         {
           "Name": "Content-Length",
@@ -439,10 +30,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 12:17:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -454,12 +41,16 @@
     },
     {
       "Route": "css/Style.yrdsjevvot.css",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\css\\Style.css",
+      "AssetFile": "css/Style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -476,10 +67,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 12:17:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -488,23 +75,109 @@
           "Value": "yrdsjevvot"
         },
         {
-          "Name": "label",
-          "Value": "css/Style.css"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-vs+YNycMmq9kk3M4c/SrFP2DQWIZP7JvJN7zSrQ/vwc="
+        },
+        {
+          "Name": "label",
+          "Value": "css/Style.css"
         }
       ]
     },
     {
-      "Route": "img/Audi e-tron.j15jtjsqmk.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Audi e-tron.jpg",
+      "Route": "css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "css/bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Nov 2024 11:47:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Nov 2024 11:47:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "img/Audi e-tron.j15jtjsqmk.jpg",
+      "AssetFile": "img/Audi e-tron.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -521,10 +194,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -533,23 +202,27 @@
           "Value": "j15jtjsqmk"
         },
         {
-          "Name": "label",
-          "Value": "img/Audi e-tron.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-ubZy+UrVAh/V+CnALB5ivytCLdI+3SwhbeoPM6MJ9DA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Audi e-tron.jpg"
         }
       ]
     },
     {
       "Route": "img/Audi e-tron.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Audi e-tron.jpg",
+      "AssetFile": "img/Audi e-tron.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -566,10 +239,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -581,12 +250,16 @@
     },
     {
       "Route": "img/BMW 3 Series.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\BMW 3 Series.jpg",
+      "AssetFile": "img/BMW 3 Series.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -603,10 +276,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:55:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -618,12 +287,16 @@
     },
     {
       "Route": "img/BMW 3 Series.m9fxlrjuo2.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\BMW 3 Series.jpg",
+      "AssetFile": "img/BMW 3 Series.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -640,10 +313,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:55:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -652,23 +321,27 @@
           "Value": "m9fxlrjuo2"
         },
         {
-          "Name": "label",
-          "Value": "img/BMW 3 Series.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-ivyKyAImZ/F3sqabD/DdVOuLKwAU1o1uNmzOKN7dVRk="
+        },
+        {
+          "Name": "label",
+          "Value": "img/BMW 3 Series.jpg"
         }
       ]
     },
     {
       "Route": "img/Chevrolet Bolt EV.j15jtjsqmk.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Chevrolet Bolt EV.jpg",
+      "AssetFile": "img/Chevrolet Bolt EV.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -685,10 +358,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -697,23 +366,27 @@
           "Value": "j15jtjsqmk"
         },
         {
-          "Name": "label",
-          "Value": "img/Chevrolet Bolt EV.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-ubZy+UrVAh/V+CnALB5ivytCLdI+3SwhbeoPM6MJ9DA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Chevrolet Bolt EV.jpg"
         }
       ]
     },
     {
       "Route": "img/Chevrolet Bolt EV.jpeg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Chevrolet Bolt EV.jpeg",
+      "AssetFile": "img/Chevrolet Bolt EV.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -730,10 +403,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 12:20:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -745,12 +414,16 @@
     },
     {
       "Route": "img/Chevrolet Bolt EV.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Chevrolet Bolt EV.jpg",
+      "AssetFile": "img/Chevrolet Bolt EV.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -767,10 +440,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -782,12 +451,16 @@
     },
     {
       "Route": "img/Chevrolet Bolt EV.kokyjv6h9m.jpeg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Chevrolet Bolt EV.jpeg",
+      "AssetFile": "img/Chevrolet Bolt EV.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -804,10 +477,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 12:20:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -816,23 +485,27 @@
           "Value": "kokyjv6h9m"
         },
         {
-          "Name": "label",
-          "Value": "img/Chevrolet Bolt EV.jpeg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-zPOYSXfxEaXkYZBr2pKk/t1y3ciu2WN5uEjRz3O8J0w="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Chevrolet Bolt EV.jpeg"
         }
       ]
     },
     {
       "Route": "img/Ford F-150.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Ford F-150.jpg",
+      "AssetFile": "img/Ford F-150.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -849,10 +522,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:55:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -864,12 +533,16 @@
     },
     {
       "Route": "img/Ford F-150.nbvcmty5fx.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Ford F-150.jpg",
+      "AssetFile": "img/Ford F-150.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -886,10 +559,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:55:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -898,23 +567,27 @@
           "Value": "nbvcmty5fx"
         },
         {
-          "Name": "label",
-          "Value": "img/Ford F-150.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-k/P7z0Xf+o4AbrB8NJcoxsNcs8H0nMuorRfCh3wdKt0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Ford F-150.jpg"
         }
       ]
     },
     {
       "Route": "img/Ford Mustang Mach-E.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Ford Mustang Mach-E.jpg",
+      "AssetFile": "img/Ford Mustang Mach-E.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -931,10 +604,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -946,12 +615,16 @@
     },
     {
       "Route": "img/Ford Mustang Mach-E.wx7au6crwv.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Ford Mustang Mach-E.jpg",
+      "AssetFile": "img/Ford Mustang Mach-E.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -968,10 +641,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -980,23 +649,27 @@
           "Value": "wx7au6crwv"
         },
         {
-          "Name": "label",
-          "Value": "img/Ford Mustang Mach-E.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-TIMWGdI0tMeIxh7UGa7LxFZPZVBwXO7DZI4lJTjRIFc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Ford Mustang Mach-E.jpg"
         }
       ]
     },
     {
       "Route": "img/Honda Accord.letdlxa9uo.webp",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Honda Accord.webp",
+      "AssetFile": "img/Honda Accord.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1013,10 +686,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:55:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1025,23 +694,27 @@
           "Value": "letdlxa9uo"
         },
         {
-          "Name": "label",
-          "Value": "img/Honda Accord.webp"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-HQ8oyaPOfKMoDyAKCOxqv/mgUv7BN+w9Zi1HRKL1GyA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Honda Accord.webp"
         }
       ]
     },
     {
       "Route": "img/Honda Accord.webp",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Honda Accord.webp",
+      "AssetFile": "img/Honda Accord.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1058,10 +731,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:55:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1073,12 +742,16 @@
     },
     {
       "Route": "img/Nissan Leaf.brdbttkjqm.jpeg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Nissan Leaf.jpeg",
+      "AssetFile": "img/Nissan Leaf.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1095,10 +768,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 12:21:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1107,23 +776,27 @@
           "Value": "brdbttkjqm"
         },
         {
-          "Name": "label",
-          "Value": "img/Nissan Leaf.jpeg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-mRSec3MVpbrmuSO92QCMjq/nqUNH2u+z256x4ZD7I0g="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Nissan Leaf.jpeg"
         }
       ]
     },
     {
       "Route": "img/Nissan Leaf.jpeg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Nissan Leaf.jpeg",
+      "AssetFile": "img/Nissan Leaf.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1140,10 +813,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 12:21:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1155,12 +824,16 @@
     },
     {
       "Route": "img/Nissan Leaf.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Nissan Leaf.jpg",
+      "AssetFile": "img/Nissan Leaf.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1177,10 +850,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1192,12 +861,16 @@
     },
     {
       "Route": "img/Nissan Leaf.oy0aeytkc1.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Nissan Leaf.jpg",
+      "AssetFile": "img/Nissan Leaf.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1214,10 +887,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1226,23 +895,27 @@
           "Value": "oy0aeytkc1"
         },
         {
-          "Name": "label",
-          "Value": "img/Nissan Leaf.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-oHZmY60pBuXDs55a+0MdMCNDt7pG+jP0peSTZXpI95o="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Nissan Leaf.jpg"
         }
       ]
     },
     {
       "Route": "img/Tesla Model 3.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Tesla Model 3.jpg",
+      "AssetFile": "img/Tesla Model 3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1259,10 +932,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1274,12 +943,16 @@
     },
     {
       "Route": "img/Tesla Model 3.l2nuzuxgow.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Tesla Model 3.jpg",
+      "AssetFile": "img/Tesla Model 3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1296,10 +969,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1308,23 +977,27 @@
           "Value": "l2nuzuxgow"
         },
         {
-          "Name": "label",
-          "Value": "img/Tesla Model 3.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-s+SsZbBH1SLbKtxLglmJIbU3A3dEJAwjOUVkgsFlGK8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Tesla Model 3.jpg"
         }
       ]
     },
     {
       "Route": "img/Tesla.6vt9lfikbd.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Tesla.jpg",
+      "AssetFile": "img/Tesla.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1341,10 +1014,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1353,23 +1022,27 @@
           "Value": "6vt9lfikbd"
         },
         {
-          "Name": "label",
-          "Value": "img/Tesla.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-cvArN4Zi6n0r67H9vYDkEmkWbIAbBZC5/Up5VMhdghU="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Tesla.jpg"
         }
       ]
     },
     {
       "Route": "img/Tesla.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Tesla.jpg",
+      "AssetFile": "img/Tesla.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1386,10 +1059,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:56:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1401,12 +1070,16 @@
     },
     {
       "Route": "img/Toyota Camry.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Toyota Camry.jpg",
+      "AssetFile": "img/Toyota Camry.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1423,10 +1096,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:55:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1438,12 +1107,16 @@
     },
     {
       "Route": "img/Toyota Camry.pm8ic8ibgv.jpg",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\img\\Toyota Camry.jpg",
+      "AssetFile": "img/Toyota Camry.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1460,10 +1133,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:55:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1472,23 +1141,27 @@
           "Value": "pm8ic8ibgv"
         },
         {
-          "Name": "label",
-          "Value": "img/Toyota Camry.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-MYitbqsk2yN0WHFo1+UeLhHv+/xdkSXpasEWZTKQEq8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Toyota Camry.jpg"
         }
       ]
     },
     {
       "Route": "js/bootstrap.min.63fj8s7r0e.js",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\js\\bootstrap.min.js",
+      "AssetFile": "js/bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1505,10 +1178,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:47:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1517,23 +1186,27 @@
           "Value": "63fj8s7r0e"
         },
         {
-          "Name": "label",
-          "Value": "js/bootstrap.min.js"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ="
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js"
         }
       ]
     },
     {
       "Route": "js/bootstrap.min.js",
-      "AssetFile": "A:\\ASP_NET_CORE\\Shop\\Shop\\Shop\\wwwroot\\js\\bootstrap.min.js",
+      "AssetFile": "js/bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -1550,10 +1223,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 14 Nov 2024 11:47:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [

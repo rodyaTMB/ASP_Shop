@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

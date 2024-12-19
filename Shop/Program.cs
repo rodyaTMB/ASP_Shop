@@ -15,6 +15,8 @@ builder.Configuration.AddJsonFile("DBSetings.json", optional: true, reloadOnChan
 // Регистрация сервисов
 builder.Services.AddTransient<IAllCars, CarRepository>();
 builder.Services.AddTransient<ICarsCategory, CategoryRepository>();
+builder.Services.AddTransient<IAllOrders, OrderRepository>();
+
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped(sp => ShopCart.GetCart(sp));
 

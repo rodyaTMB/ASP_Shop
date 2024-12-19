@@ -1,0 +1,15 @@
+wwwroot\css\bootstrap.min.css
+wwwroot\css\Style.css
+wwwroot\img\Audi e-tron.jpg
+wwwroot\img\BMW 3 Series.jpg
+wwwroot\img\Chevrolet Bolt EV.jpeg
+wwwroot\img\Chevrolet Bolt EV.jpg
+wwwroot\img\Ford F-150.jpg
+wwwroot\img\Ford Mustang Mach-E.jpg
+wwwroot\img\Honda Accord.webp
+wwwroot\img\Nissan Leaf.jpeg
+wwwroot\img\Nissan Leaf.jpg
+wwwroot\img\Tesla Model 3.jpg
+wwwroot\img\Tesla.jpg
+wwwroot\img\Toyota Camry.jpg
+wwwroot\js\bootstrap.min.js

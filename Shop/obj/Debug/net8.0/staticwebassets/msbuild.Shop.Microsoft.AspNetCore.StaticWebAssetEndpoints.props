@@ -1,0 +1,184 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Shop/css/bootstrap.min.46ein0sx1k.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"46ein0sx1k"},{"Name":"integrity","Value":"sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="},{"Name":"label","Value":"_content/Shop/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"232803"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:47:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"232803"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:47:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/css/Style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vs\u002BYNycMmq9kk3M4c/SrFP2DQWIZP7JvJN7zSrQ/vwc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"40"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vs\u002BYNycMmq9kk3M4c/SrFP2DQWIZP7JvJN7zSrQ/vwc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 12:17:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/css/Style.yrdsjevvot.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yrdsjevvot"},{"Name":"integrity","Value":"sha256-vs\u002BYNycMmq9kk3M4c/SrFP2DQWIZP7JvJN7zSrQ/vwc="},{"Name":"label","Value":"_content/Shop/css/Style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vs\u002BYNycMmq9kk3M4c/SrFP2DQWIZP7JvJN7zSrQ/vwc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 12:17:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Audi e-tron.j15jtjsqmk.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Audi e-tron.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j15jtjsqmk"},{"Name":"integrity","Value":"sha256-ubZy\u002BUrVAh/V\u002BCnALB5ivytCLdI\u002B3SwhbeoPM6MJ9DA="},{"Name":"label","Value":"_content/Shop/img/Audi e-tron.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"241346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ubZy\u002BUrVAh/V\u002BCnALB5ivytCLdI\u002B3SwhbeoPM6MJ9DA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Audi e-tron.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Audi e-tron.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ubZy\u002BUrVAh/V\u002BCnALB5ivytCLdI\u002B3SwhbeoPM6MJ9DA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"241346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ubZy\u002BUrVAh/V\u002BCnALB5ivytCLdI\u002B3SwhbeoPM6MJ9DA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/BMW 3 Series.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\BMW 3 Series.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ivyKyAImZ/F3sqabD/DdVOuLKwAU1o1uNmzOKN7dVRk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"198990"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ivyKyAImZ/F3sqabD/DdVOuLKwAU1o1uNmzOKN7dVRk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:55:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/BMW 3 Series.m9fxlrjuo2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\BMW 3 Series.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m9fxlrjuo2"},{"Name":"integrity","Value":"sha256-ivyKyAImZ/F3sqabD/DdVOuLKwAU1o1uNmzOKN7dVRk="},{"Name":"label","Value":"_content/Shop/img/BMW 3 Series.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"198990"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ivyKyAImZ/F3sqabD/DdVOuLKwAU1o1uNmzOKN7dVRk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:55:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Chevrolet Bolt EV.j15jtjsqmk.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Chevrolet Bolt EV.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j15jtjsqmk"},{"Name":"integrity","Value":"sha256-ubZy\u002BUrVAh/V\u002BCnALB5ivytCLdI\u002B3SwhbeoPM6MJ9DA="},{"Name":"label","Value":"_content/Shop/img/Chevrolet Bolt EV.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"241346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ubZy\u002BUrVAh/V\u002BCnALB5ivytCLdI\u002B3SwhbeoPM6MJ9DA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Chevrolet Bolt EV.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Chevrolet Bolt EV.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zPOYSXfxEaXkYZBr2pKk/t1y3ciu2WN5uEjRz3O8J0w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7820"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zPOYSXfxEaXkYZBr2pKk/t1y3ciu2WN5uEjRz3O8J0w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 12:20:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Chevrolet Bolt EV.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Chevrolet Bolt EV.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ubZy\u002BUrVAh/V\u002BCnALB5ivytCLdI\u002B3SwhbeoPM6MJ9DA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"241346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ubZy\u002BUrVAh/V\u002BCnALB5ivytCLdI\u002B3SwhbeoPM6MJ9DA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Chevrolet Bolt EV.kokyjv6h9m.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Chevrolet Bolt EV.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kokyjv6h9m"},{"Name":"integrity","Value":"sha256-zPOYSXfxEaXkYZBr2pKk/t1y3ciu2WN5uEjRz3O8J0w="},{"Name":"label","Value":"_content/Shop/img/Chevrolet Bolt EV.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7820"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zPOYSXfxEaXkYZBr2pKk/t1y3ciu2WN5uEjRz3O8J0w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 12:20:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Ford F-150.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Ford F-150.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-k/P7z0Xf\u002Bo4AbrB8NJcoxsNcs8H0nMuorRfCh3wdKt0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"187844"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022k/P7z0Xf\u002Bo4AbrB8NJcoxsNcs8H0nMuorRfCh3wdKt0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:55:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Ford F-150.nbvcmty5fx.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Ford F-150.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nbvcmty5fx"},{"Name":"integrity","Value":"sha256-k/P7z0Xf\u002Bo4AbrB8NJcoxsNcs8H0nMuorRfCh3wdKt0="},{"Name":"label","Value":"_content/Shop/img/Ford F-150.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"187844"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022k/P7z0Xf\u002Bo4AbrB8NJcoxsNcs8H0nMuorRfCh3wdKt0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:55:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Ford Mustang Mach-E.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Ford Mustang Mach-E.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TIMWGdI0tMeIxh7UGa7LxFZPZVBwXO7DZI4lJTjRIFc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164074"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TIMWGdI0tMeIxh7UGa7LxFZPZVBwXO7DZI4lJTjRIFc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Ford Mustang Mach-E.wx7au6crwv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Ford Mustang Mach-E.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wx7au6crwv"},{"Name":"integrity","Value":"sha256-TIMWGdI0tMeIxh7UGa7LxFZPZVBwXO7DZI4lJTjRIFc="},{"Name":"label","Value":"_content/Shop/img/Ford Mustang Mach-E.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164074"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TIMWGdI0tMeIxh7UGa7LxFZPZVBwXO7DZI4lJTjRIFc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Honda Accord.letdlxa9uo.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Honda Accord.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"letdlxa9uo"},{"Name":"integrity","Value":"sha256-HQ8oyaPOfKMoDyAKCOxqv/mgUv7BN\u002Bw9Zi1HRKL1GyA="},{"Name":"label","Value":"_content/Shop/img/Honda Accord.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"172248"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022HQ8oyaPOfKMoDyAKCOxqv/mgUv7BN\u002Bw9Zi1HRKL1GyA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:55:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Honda Accord.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Honda Accord.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HQ8oyaPOfKMoDyAKCOxqv/mgUv7BN\u002Bw9Zi1HRKL1GyA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"172248"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022HQ8oyaPOfKMoDyAKCOxqv/mgUv7BN\u002Bw9Zi1HRKL1GyA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:55:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Nissan Leaf.brdbttkjqm.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Nissan Leaf.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"brdbttkjqm"},{"Name":"integrity","Value":"sha256-mRSec3MVpbrmuSO92QCMjq/nqUNH2u\u002Bz256x4ZD7I0g="},{"Name":"label","Value":"_content/Shop/img/Nissan Leaf.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"630479"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mRSec3MVpbrmuSO92QCMjq/nqUNH2u\u002Bz256x4ZD7I0g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 12:21:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Nissan Leaf.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Nissan Leaf.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mRSec3MVpbrmuSO92QCMjq/nqUNH2u\u002Bz256x4ZD7I0g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"630479"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mRSec3MVpbrmuSO92QCMjq/nqUNH2u\u002Bz256x4ZD7I0g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 12:21:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Nissan Leaf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Nissan Leaf.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oHZmY60pBuXDs55a\u002B0MdMCNDt7pG\u002BjP0peSTZXpI95o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"155644"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022oHZmY60pBuXDs55a\u002B0MdMCNDt7pG\u002BjP0peSTZXpI95o=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Nissan Leaf.oy0aeytkc1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Nissan Leaf.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oy0aeytkc1"},{"Name":"integrity","Value":"sha256-oHZmY60pBuXDs55a\u002B0MdMCNDt7pG\u002BjP0peSTZXpI95o="},{"Name":"label","Value":"_content/Shop/img/Nissan Leaf.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"155644"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022oHZmY60pBuXDs55a\u002B0MdMCNDt7pG\u002BjP0peSTZXpI95o=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Tesla Model 3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Tesla Model 3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-s\u002BSsZbBH1SLbKtxLglmJIbU3A3dEJAwjOUVkgsFlGK8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"79731"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022s\u002BSsZbBH1SLbKtxLglmJIbU3A3dEJAwjOUVkgsFlGK8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Tesla Model 3.l2nuzuxgow.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Tesla Model 3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l2nuzuxgow"},{"Name":"integrity","Value":"sha256-s\u002BSsZbBH1SLbKtxLglmJIbU3A3dEJAwjOUVkgsFlGK8="},{"Name":"label","Value":"_content/Shop/img/Tesla Model 3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79731"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022s\u002BSsZbBH1SLbKtxLglmJIbU3A3dEJAwjOUVkgsFlGK8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Tesla.6vt9lfikbd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Tesla.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6vt9lfikbd"},{"Name":"integrity","Value":"sha256-cvArN4Zi6n0r67H9vYDkEmkWbIAbBZC5/Up5VMhdghU="},{"Name":"label","Value":"_content/Shop/img/Tesla.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"182302"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cvArN4Zi6n0r67H9vYDkEmkWbIAbBZC5/Up5VMhdghU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Tesla.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Tesla.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cvArN4Zi6n0r67H9vYDkEmkWbIAbBZC5/Up5VMhdghU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"182302"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cvArN4Zi6n0r67H9vYDkEmkWbIAbBZC5/Up5VMhdghU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:56:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Toyota Camry.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Toyota Camry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MYitbqsk2yN0WHFo1\u002BUeLhHv\u002B/xdkSXpasEWZTKQEq8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"167169"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MYitbqsk2yN0WHFo1\u002BUeLhHv\u002B/xdkSXpasEWZTKQEq8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:55:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/img/Toyota Camry.pm8ic8ibgv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Toyota Camry.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pm8ic8ibgv"},{"Name":"integrity","Value":"sha256-MYitbqsk2yN0WHFo1\u002BUeLhHv\u002B/xdkSXpasEWZTKQEq8="},{"Name":"label","Value":"_content/Shop/img/Toyota Camry.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"167169"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MYitbqsk2yN0WHFo1\u002BUeLhHv\u002B/xdkSXpasEWZTKQEq8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:55:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/js/bootstrap.min.63fj8s7r0e.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"63fj8s7r0e"},{"Name":"integrity","Value":"sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ="},{"Name":"label","Value":"_content/Shop/js/bootstrap.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"60635"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:47:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Shop/js/bootstrap.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"60635"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 11:47:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -173,3 +173,7 @@ A:\ASP_NET_CORE\Shop\Shop\Shop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.R
 A:\ASP_NET_CORE\Shop\Shop\Shop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 A:\ASP_NET_CORE\Shop\Shop\Shop\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 A:\ASP_NET_CORE\Shop\Shop\Shop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\ASP_NET_CORE\Shop\Shop\Shop\bin\Debug\net8.0\Shop.staticwebassets.endpoints.json
+A:\ASP_NET_CORE\Shop\Shop\Shop\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+A:\ASP_NET_CORE\Shop\Shop\Shop\obj\Debug\net8.0\staticwebassets\msbuild.Shop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+A:\ASP_NET_CORE\Shop\Shop\Shop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
